@@ -1,6 +1,6 @@
 # STEPS TO DEPLOY NODE APP WITH AWS EC2 Redhat/Amazon Linux Container Instance
 <hr/>
-<img width="100" height="100" src="https://pbs.twimg.com/profile_images/476766169349636096/xUHXk6zu.png" />
+<img width="200" height="150" src="https://pbs.twimg.com/profile_images/476766169349636096/xUHXk6zu.png" />
 <img width="200" height="150" src="http://yannickloriot.com/wp-content/uploads/2016/04/nodejs_logo_2016.png" />
 
 <ol>
